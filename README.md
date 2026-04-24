@@ -1,50 +1,75 @@
-<!-- ============================================================ -->
-<!--  ANGELINA_SYS :: README.md :: BUILD 97.0.1 :: DO NOT COPY  -->
-<!-- ============================================================ -->
+<!-- ██████████████████████████████████████████████████ -->
+<!--   ANGELINA_SYS :: README :: BLOOD_BUILD_97.02    -->
+<!--   DO NOT REDISTRIBUTE // DO NOT MAKE EYE CONTACT -->
+<!-- ██████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff00&height=200&section=header&text=ANGELINA_SYS_INIT&fontSize=42&fontColor=00ff00&fontAlignY=38&desc=WELCOME+TO+THE+VOID&descAlignY=60&descColor=557755&animation=twinkling" width="100%"/>
+<!-- ═══════════════════════════════════════════════════ -->
+<!--  SECTION 00 :: THE HEADER                         -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0000,70:3d0000,100:cc0000&height=240&section=header&text=ANGELINA_SYS_INIT&fontSize=46&fontColor=ff2200&fontAlignY=36&desc=///+WELCOME+TO+THE+VOID+///&descAlignY=60&descColor=880000&animation=twinkling&stroke=660000&strokeWidth=2" width="100%"/>
 
 <br/>
 
-![STATUS](https://img.shields.io/badge/SYSTEM_STATUS-CRITICAL-ff0000?style=flat-square&labelColor=000000)
-![UPTIME](https://img.shields.io/badge/UPTIME-[X]_RUNNING-00ff00?style=flat-square&labelColor=0a0a0a)
-![BUILD](https://img.shields.io/badge/BUILD-97.0.1__UNSTABLE-ffaa00?style=flat-square&labelColor=000000)
+<!-- GIF ROW 01 — static/glitch atmosphere -->
+<img src="https://media.giphy.com/media/xT9IgG50Lg7russDPO/giphy.gif" width="19%" />
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="19%" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="19%" />
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="19%" />
+<img src="https://media.giphy.com/media/xT9IgG50Lg7russDPO/giphy.gif" width="19%" />
+
+<br/><br/>
+
+<!-- STATUS BADGES -->
+![STATUS](https://img.shields.io/badge/SYSTEM_STATUS-CRITICAL-cc0000?style=flat-square&labelColor=000000)
+![UPTIME](https://img.shields.io/badge/[X]_RUNNING-CONFIRMED-8b0000?style=flat-square&labelColor=0a0000)
+![BUILD](https://img.shields.io/badge/BUILD-97.02__UNSTABLE-ff2200?style=flat-square&labelColor=000000)
+![BLOOD](https://img.shields.io/badge/☣_SECTOR-CONTAMINATED-660000?style=flat-square&labelColor=0d0000)
 
 <br/>
 
-[![UNDER CONSTRUCTION](https://img.shields.io/badge/⚠_UNDER-CONSTRUCTION-ff6600?style=flat-square&labelColor=1a0000)](.)
-[![HAZARD](https://img.shields.io/badge/☣_HAZARD-ZONE__ACTIVE-00ff00?style=flat-square&labelColor=000000)](.)
-[![NETSCAPE](https://img.shields.io/badge/BEST_VIEWED_IN-NETSCAPE_4.0-003300?style=flat-square&labelColor=001a00)](.)
+<!-- RETRO BANNER BADGES -->
+[![UNDER CONSTRUCTION](https://img.shields.io/badge/⚠_PAGE-UNDER_CONSTRUCTION-ff4400?style=flat-square&labelColor=1a0000)](.)
+[![DO NOT ENTER](https://img.shields.io/badge/💀_ENTRY-FORBIDDEN-cc0000?style=flat-square&labelColor=000000)](.)
+[![HAZARD](https://img.shields.io/badge/☣_BIO-HAZARD_ACTIVE-8b0000?style=flat-square&labelColor=0a0000)](.)
+[![POSTAL](https://img.shields.io/badge/RUNNING_WITH-SCISSORS-ff0000?style=flat-square&labelColor=1a0000)](.)
 
 </div>
 
 ```
-██████████████████████████████████████████████████████████████
-█                                                            █
-█   W E L C O M E   T O   T H E   V O I D                  █
-█   ANGELINA_SYS_INIT  //  SECTOR: ONLINE  //  [■■■■░░] 67% █
-█                                                            █
-██████████████████████████████████████████████████████████████
-```
-
----
-
-```
-//==============================================================//
-//  SECTION_00 :: HEADER TRANSMISSION :: SIGNAL LOCKED         //
-//  ░▒▓ RECEIVING... ▓▒░   [■■■■■■■■■■] 100%  CONFIRMED       //
-//==============================================================//
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                          ▓
+▓   W E L C O M E   T O   T H E   V O I D                ▓
+▓   ANGELINA_SYS_INIT  ///  SECTOR: ONLINE               ▓
+▓   SIGNAL: [■■■■■■░░░░]  DEGRADED  //  DO NOT PANIC     ▓
+▓                                                          ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 <div align="center">
 
 > ☣️ **WARNING: ENTERING RESTRICTED MEMORY SPACE** ☣️
 >
-> *Unauthorized access will result in immediate cognitive fragmentation.*
-> *Proceed at own risk. System assumes no liability for sanity loss.*
+> *Unauthorized access detected. Logging IP. Preparing countermeasures.*
+> *System assumes no liability for sanity loss. Proceed or leave. Doesn't matter.*
 
+</div>
+
+---
+
+<div align="center">
+<!-- GIF DIVIDER 01 — skull/hazard row -->
+<img src="https://media.giphy.com/media/hQ6GCaF0l4GrNM3BoQ/giphy.gif" width="80" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/3ohs4AW1jD7yGsBJ9m/giphy.gif" width="80" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="80" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/3ohs4AW1jD7yGsBJ9m/giphy.gif" width="80" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/hQ6GCaF0l4GrNM3BoQ/giphy.gif" width="80" />
 </div>
 
 ---
@@ -59,159 +84,232 @@
 [SYS] :: ANGELINA_SYS v0.23 :: BOOT SEQUENCE INITIATED
 [INF] :: 1997-XX-XX 03:47:11 :: LOADING USER PROFILE...
 
-> IDENTITY   : angelina.exe
-> CLASS      : STUDENT // CODER // DESIGNER // ENTITY
-> STATUS     : RUNNING IN BACKGROUND
+  > IDENTITY   : angelina.exe
+  > CLASS      : STUDENT // CODER // DESIGNER // ENTITY
+  > STATUS     : RUNNING IN BACKGROUND — DO NOT INTERRUPT
 
 [LOG] Detected dual-process architecture:
       ├── /proc/PROGRAMMING  ... [ACTIVE]
       │     └── mixing logic with aesthetics since boot
+      │     └── languages: see SECTION_02
       ├── /proc/DESIGN       ... [ACTIVE]
-      │     └── pixel-pushing at 3am, no errors found
+      │     └── pixel-pushing at 3am, no errors logged
       ├── /proc/MUSIC        ... [ALWAYS_RUNNING]
       │     └── genre: INDUSTRIAL / TECHNO / NOISE
-      │     └── playback: ████████████████ LOUD
+      │     └── playback: ████████████████████ LOUD. ALWAYS.
       ├── /proc/GAMING       ... [ACTIVE]
       │     └── WARNING: session length exceeds safe parameters
+      │     └── no patch available. user refuses to sleep.
       └── /proc/ART          ... [BACKGROUND_DAEMON]
             └── drawing adopts // character design // creature lore
-            └── memory leak detected — non-critical, ignoring
+            └── memory leak detected — non-critical. leaving it.
 
 [WRN] :: Process 'SLEEP.SYS' not found. Continuing without.
-[WRN] :: Coffee dependency module: CRITICAL LOW
-[ERR] :: Social.dll has encountered a fatal exception
-        >> restarting in ANTISOCIAL_MODE... done.
+[WRN] :: Coffee dependency module: CRITICAL LOW. Refill required.
+[ERR] :: Social.dll has encountered a fatal exception.
+        >> user.exe restarting in ANTISOCIAL_MODE... done.
+[ERR] :: Reality.exe failed to initialize. Running in detached mode.
 
-[SYS] :: All core systems nominal. Proceeding.
+[SYS] :: All critical systems nominal. Anomalies suppressed.
+[SYS] :: Proceeding.
 > _
 ```
+
+---
+
+<div align="center">
+<!-- GIF DIVIDER 02 — TV static/glitch bar -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="40"/>
+</div>
 
 ---
 
 ```
 //==============================================================//
 //  SECTION_02 :: CORE MODULES :: TECH_STACK.DAT               //
-//  💾 LOADING HARDWARE MANIFEST...                            //
+//  💾 LOADING HARDWARE MANIFEST...  [■■■■■■■■░░] 82%         //
 //==============================================================//
 ```
 
-### ⚙️ `[ LOGIC_CORE ]` — Primary Processing Units
+### ☣️ `[ LOGIC_CORE ]` — Primary Processing Units
 
-| MODULE | VERSION | STATUS |
-|--------|---------|--------|
-| ![Python](https://img.shields.io/badge/PYTHON-3.xx-00ff00?style=flat-square&labelColor=0d0d0d&logo=python&logoColor=00ff00) | `3.xx` | `[ONLINE]` |
-| ![Java](https://img.shields.io/badge/JAVA-21-ff3300?style=flat-square&labelColor=0d0d0d&logo=openjdk&logoColor=ff3300) | `21` | `[ONLINE]` |
-| ![Kotlin](https://img.shields.io/badge/KOTLIN-2.x-aa00ff?style=flat-square&labelColor=0d0d0d&logo=kotlin&logoColor=aa00ff) | `2.x` | `[ONLINE]` |
-| ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-5.x-00aaff?style=flat-square&labelColor=0d0d0d&logo=typescript&logoColor=00aaff) | `5.x` | `[ONLINE]` |
-| ![Next.js](https://img.shields.io/badge/NEXT.JS-14-555555?style=flat-square&labelColor=0d0d0d&logo=nextdotjs&logoColor=cccccc) | `14` | `[ONLINE]` |
+<div align="center">
+
+| MODULE | BUILD | STATUS |
+|--------|-------|--------|
+| ![Python](https://img.shields.io/badge/PYTHON-LOGIC_CORE-cc0000?style=for-the-badge&labelColor=0d0000&logo=python&logoColor=ff4400) | `3.xx` | `[█ ONLINE]` |
+| ![Java](https://img.shields.io/badge/JAVA-RUNTIME_ENGINE-aa0000?style=for-the-badge&labelColor=0d0000&logo=openjdk&logoColor=ff2200) | `21` | `[█ ONLINE]` |
+| ![Kotlin](https://img.shields.io/badge/KOTLIN-ANDROID_CORE-880000?style=for-the-badge&labelColor=0d0000&logo=kotlin&logoColor=ff6644) | `2.x` | `[█ ONLINE]` |
+| ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-TYPE_INJECTOR-660000?style=for-the-badge&labelColor=0d0000&logo=typescript&logoColor=ff4422) | `5.x` | `[█ ONLINE]` |
+| ![Next.js](https://img.shields.io/badge/NEXT.JS-RENDER_DAEMON-3d0000?style=for-the-badge&labelColor=0d0000&logo=nextdotjs&logoColor=ff2200) | `14` | `[█ ONLINE]` |
+
+</div>
 
 ### 📟 `[ VISUAL_LAYER ]` — Render Pipeline
 
-| MODULE | STATUS |
-|--------|--------|
-| ![HTML](https://img.shields.io/badge/HTML5-MARKUP_ENGINE-ff4400?style=flat-square&labelColor=0d0d0d&logo=html5&logoColor=ff4400) | `[RENDERING]` |
-| ![CSS](https://img.shields.io/badge/CSS3-STYLE_INJECTOR-0055ff?style=flat-square&labelColor=0d0d0d&logo=css3&logoColor=0055ff) | `[INJECTING]` |
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML5-MARKUP_ENGINE-cc2200?style=for-the-badge&labelColor=1a0000&logo=html5&logoColor=ff4400)
+![CSS](https://img.shields.io/badge/CSS3-STYLE_INJECTOR-880000?style=for-the-badge&labelColor=1a0000&logo=css3&logoColor=ff6644)
+
+</div>
 
 ### 🖥️ `[ DESIGN_TOOLS ]` — External Peripherals
 
-| TOOL | LOAD |
-|------|------|
-| ![Figma](https://img.shields.io/badge/FIGMA-PROTOTYPE_UNIT-ff2266?style=flat-square&labelColor=0d0d0d&logo=figma&logoColor=ff2266) | `████████░░ 80%` |
-| ![Illustrator](https://img.shields.io/badge/ILLUSTRATOR-VECTOR_MODULE-ff6600?style=flat-square&labelColor=0d0d0d&logo=adobeillustrator&logoColor=ff6600) | `███████░░░ 70%` |
-| ![Photoshop](https://img.shields.io/badge/PHOTOSHOP-RASTER_ENGINE-0088ff?style=flat-square&labelColor=0d0d0d&logo=adobephotoshop&logoColor=0088ff) | `██████░░░░ 60%` |
+<div align="center">
 
-### 💉 `[ INTERFACE_UNITS ]` — Preferred Consoles
+| TOOL | CAPACITY |
+|------|----------|
+| ![Figma](https://img.shields.io/badge/FIGMA-PROTOTYPE_UNIT-aa0000?style=for-the-badge&labelColor=0d0000&logo=figma&logoColor=ff4422) | `████████░░ 80%` |
+| ![Illustrator](https://img.shields.io/badge/ILLUSTRATOR-VECTOR_CORE-880000?style=for-the-badge&labelColor=0d0000&logo=adobeillustrator&logoColor=ff6644) | `███████░░░ 70%` |
+| ![Photoshop](https://img.shields.io/badge/PHOTOSHOP-RASTER_MODULE-660000?style=for-the-badge&labelColor=0d0000&logo=adobephotoshop&logoColor=ff4422) | `██████░░░░ 60%` |
 
-![PyCharm](https://img.shields.io/badge/PYCHARM-PRIMARY_CONSOLE-00ff88?style=flat-square&labelColor=0d0d0d&logo=pycharm&logoColor=00ff88)
-![VSCode](https://img.shields.io/badge/VS_CODE-SECONDARY_CONSOLE-007acc?style=flat-square&labelColor=0d0d0d&logo=visualstudiocode&logoColor=007acc)
+</div>
+
+### 💉 `[ IDE_UNITS ]` — Preferred Consoles
+
+<div align="center">
+
+![PyCharm](https://img.shields.io/badge/PYCHARM-PRIMARY_CONSOLE-cc0000?style=for-the-badge&labelColor=0d0000&logo=pycharm&logoColor=ff4400)
+![VSCode](https://img.shields.io/badge/VS_CODE-SECONDARY_CONSOLE-880000?style=for-the-badge&labelColor=0d0000&logo=visualstudiocode&logoColor=ff6644)
+
+</div>
+
+---
+
+<div align="center">
+<!-- GIF DIVIDER 03 — danger/warning -->
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="32%" />
+<img src="https://media.giphy.com/media/l0HlFZfztDgyRjWxO/giphy.gif" width="32%" />
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="32%" />
+</div>
 
 ---
 
 ```
 //==============================================================//
 //  SECTION_03 :: ANALYTICS :: GITHUB_STATS.SYS               //
-//  🔗 HANDSHAKE WITH REMOTE SERVER... ESTABLISHED            //
+//  🔗 HANDSHAKE WITH REMOTE SERVER... [■■■■■■■■■■] LOCKED   //
 //==============================================================//
 ```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-friendly-dark&bg_color=000000&border_color=00ff00&title_color=00ff00&icon_color=ff3300&text_color=00cc00&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d0000&border_color=cc0000&title_color=ff2200&icon_color=cc0000&text_color=ff6644&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark&bg_color=000000&border_color=00ff00&title_color=00ff00&text_color=00cc00&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0d0000&border_color=cc0000&title_color=ff2200&text_color=ff6644&hide_border=false" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=matrix&background=000000&border=00ff00&ring=ff3300&fire=ff3300&currStreakLabel=00ff00&sideLabels=00cc00&dates=335533" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=0d0000&border=cc0000&ring=ff2200&fire=ff4400&currStreakLabel=ff2200&sideLabels=cc0000&dates=883322&stroke=660000" width="65%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=false&row=1&column=7&margin-w=4" width="100%"/>
 
 </div>
 
 ```
-[SYS] Data retrieved successfully. Anomalies detected. Ignored.
+[SYS] :: Data retrieved. Anomalies detected. Anomalies noted. Anomalies ignored.
 ```
+
+---
+
+<div align="center">
+<!-- GIF DIVIDER 04 — chaos/blood atmosphere -->
+<img src="https://media.giphy.com/media/xT9IgIEGHXFMuqKMoM/giphy.gif" width="100%" height="50"/>
+</div>
 
 ---
 
 ```
 //==============================================================//
-//  SECTION_04 :: ART_DRIVE :: MEMORY_LEAK_DETECTED           //
-//  💀 WARNING: CORRUPTED IMAGE DATA IN SECTOR 7              //
+//  SECTION_04 :: ART_DRIVE :: MEMORY_LEAK_DETECTED.EXE       //
+//  💀 CORRUPTED IMAGE DATA IN SECTOR_7 — CANNOT PURGE        //
 //==============================================================//
 ```
 
+<div align="center">
+
 ```
-ERROR 0x0000DEAD :: SECTOR_7 :: CREATIVE_BUFFER OVERFLOW
-████████████████████████████████████ 112% — EXCEEDS LIMIT
-Attempting to flush...      FAILED
-Attempting to contain...    FAILED
-Dumping to output stream instead.
+  ██████████████████████████████████████████████████████████
+  █  ERROR 0x0000DEAD :: CREATIVE_BUFFER OVERFLOW          █
+  █  ████████████████████████████████████ 112% CRITICAL    █
+  █  flush()       ... FAILED                              █
+  █  contain()     ... FAILED                              █
+  █  suppress()    ... FAILED                              █
+  █  dumping to output stream.                             █
+  ██████████████████████████████████████████████████████████
 ```
+
+<img src="https://media.giphy.com/media/3ohs4AW1jD7yGsBJ9m/giphy.gif" width="100" />
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100" />
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/3ohs4AW1jD7yGsBJ9m/giphy.gif" width="100" />
+
+</div>
 
 ### `[ ART.EXE :: PROCESS CANNOT BE TERMINATED ]`
 
 ```
 /art_drive/
-├── /adopts/          ← character designs for sale/trade
-│     ├── creature_batch_001.psd   [47MB] [CORRUPTED_BUT_BEAUTIFUL]
-│     ├── demon_batch_004.psd      [83MB] [DO NOT OPEN ALONE]
-│     └── humanoid_misc.psd        [??MB] [SIZE UNKNOWN]
+├── /adopts/             ← original characters // for sale // for trade
+│     ├── creature_batch_001.psd    [47MB]  [CORRUPTED_BUT_BEAUTIFUL]
+│     ├── demon_batch_004.psd       [83MB]  [DO NOT OPEN ALONE AT NIGHT]
+│     ├── humanoid_misc.psd         [??MB]  [SIZE: UNKNOWN]
+│     └── void_entities/            [∞MB]   [DO NOT LOOK DIRECTLY]
 │
-├── /digital_misc/    ← random pixel/vector doodles
-│     └── [REDACTED — clearance level insufficient]
+├── /digital_misc/       ← pixel/vector overflow from 3am sessions
+│     └── [REDACTED — insufficient clearance level]
 │
-└── /wip/             ← never finished, never abandoned
-      └── everything.psd           [∞MB]  [ALWAYS OPEN]
+└── /wip/                ← files that are never done. never abandoned.
+      ├── the_big_project.psd       [∞MB]   [ALWAYS_OPEN]
+      └── ideas.txt                 [4KB]   [GROWING DAILY. UNCONTROLLED.]
 ```
 
-> 💾 *Art leaks from the system at unpredictable intervals.*
-> *Adopts are original characters available for transfer.*
-> *Handle with care. They bite.*
+> 💾 *Art leaks from system at unpredictable intervals.*
+> *Adopts are original characters. Available for transfer.*
+> *Handle with care. They remember. They bite.*
 
 <details>
-<summary><code>[ ☣️ EXPAND :: ART TRANSMISSION DETAILS ]</code></summary>
+<summary><code>[ ☣️ >> EXPAND :: ART TRANSMISSION PROTOCOL ]</code></summary>
 
 <br/>
 
 ```
-TRANSMISSION LOG :: ART_DAEMON.EXE
------------------------------------
-Style tags injected:
-  > dark fantasy      ✓
-  > creature design   ✓
-  > character lore    ✓
-  > pixel corruption  ✓
-  > things with teeth ✓
+TRANSMISSION LOG :: ART_DAEMON.EXE :: v0.7 :: UNSTABLE
+-------------------------------------------------------
+Active style modules:
+  > dark fantasy              ✓ LOADED
+  > creature / beast design   ✓ LOADED
+  > character lore            ✓ LOADED
+  > corrupted aesthetics      ✓ LOADED
+  > things with too many eyes ✓ LOADED
 
-Output format  : .PNG / .PSD / nightmares
-Commission status : [ASK]
+Output format     : .PNG // .PSD // .NIGHTMARE
+Commission status : [ASK — DM OPEN]
 Adopt status      : [CHECK SOCIALS]
-Trade status      : [OPEN — send request]
+Trade status      : [OPEN — pitch me something good]
 
-WARNING: Art daemon runs at 2am.
-         Do not interrupt the process.
+SYSTEM NOTE:
+  Art daemon activates at 02:00.
+  Do not interrupt the process.
+  It finishes when it finishes.
+  Maybe.
 ```
 
 </details>
+
+---
+
+<div align="center">
+<!-- GIF DIVIDER 05 — static wave -->
+<img src="https://media.giphy.com/media/xT9IgG50Lg7russDPO/giphy.gif" width="24%" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24%" />
+<img src="https://media.giphy.com/media/xT9IgG50Lg7russDPO/giphy.gif" width="24%" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24%" />
+</div>
 
 ---
 
@@ -226,15 +324,17 @@ WARNING: Art daemon runs at 2am.
 ║  ANGELINA_SYS :: LIVE STATUS BOARD :: AUTO-REFRESH: OFF     ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  SYSTEM STATUS  ████████████████░░░░  CRITICAL              ║
-║  MOOD MODULE    ████████░░░░░░░░░░░░  PROCESSING            ║
-║  SLEEP.SYS      ░░░░░░░░░░░░░░░░░░░░  NOT FOUND             ║
-║  COFFEE.DLL     ████░░░░░░░░░░░░░░░░  LOW — REFILL NEEDED   ║
-║  MUSIC.EXE      ████████████████████  LOUD / ALWAYS          ║
-║  SOCIAL.DLL     ██░░░░░░░░░░░░░░░░░░  MINIMAL / STABLE       ║
-║  CREATIVITY     ████████████████████  OVERFLOW — SEE SEC.4   ║
+║  SYSTEM STATUS  ████████████████░░░░  [CRITICAL]            ║
+║  MOOD MODULE    ████████░░░░░░░░░░░░  [PROCESSING]          ║
+║  SLEEP.SYS      ░░░░░░░░░░░░░░░░░░░░  [NOT FOUND]           ║
+║  COFFEE.DLL     ████░░░░░░░░░░░░░░░░  [CRITICAL LOW]        ║
+║  MUSIC.EXE      ████████████████████  [LOUD // ALWAYS]       ║
+║  SOCIAL.DLL     ██░░░░░░░░░░░░░░░░░░  [MINIMAL // STABLE]   ║
+║  CREATIVITY     ████████████████████  [OVERFLOW // SEE §4]  ║
+║  SANITY.EXE     ████░░░░░░░░░░░░░░░░  [DECLINING // NORMAL] ║
 ║                                                              ║
-║  [X] RUNNING    [!] 3 WARNINGS    [0] CRITICAL ERRORS*      ║
+╠══════════════════════════════════════════════════════════════╣
+║  [X] RUNNING    [!] 4 WARNINGS     [0] CRITICAL ERRORS*     ║
 ║  * errors suppressed. system continues. as always.           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -242,7 +342,7 @@ WARNING: Art daemon runs at 2am.
 ---
 
 <details>
-<summary><code>[ 💀 EASTER EGG :: DO NOT CLICK :: I MEAN IT ]</code></summary>
+<summary><code>[ 💀 EASTER EGG :: DO NOT CLICK :: LAST WARNING ]</code></summary>
 
 <br/>
 
@@ -251,54 +351,56 @@ you clicked it.
 
 of course you did.
 
-everyone does.
+              ████████
+           ███        ███
+          █   ██    ██   █
+         █               █
+         █  █         █  █
+          █   ████████   █
+           ███          █
+           ████████████
+              ████████
 
-      .  .  .  .  .  .  .
-   .                       .
- .   ██████████████████████  .
- .   █  POSTAL VIBES ONLY █  .
- .   █  "it's not my fault █  .
- .   █   if it's not fun   █  .
- .   █   for you."         █  .
- .   ██████████████████████  .
-   .                       .
-      .  .  .  .  .  .  .
+  POSTAL (1997) — "it's not my fault if it's
+                   not fun for you."
 
 there is no reward here.
 only the void.
-the void looks back.
-have a good day.
-or don't. it doesn't matter.
-nothing matters.
-(jk)
-(or am i)
-(yes)
+the void has noted your presence.
+have a fine day.
+or don't. it doesn't register either way.
 ```
 
 </details>
 
 <details>
-<summary><code>[ 📟 SYS INFO :: EXTENDED MANIFEST :: [CLEARANCE: NONE] ]</code></summary>
+<summary><code>[ 📟 EXTENDED MANIFEST :: CLEARANCE: NONE // ENTER ANYWAY ]</code></summary>
 
 <br/>
 
 ```
 EXTENDED SYSTEM MANIFEST :: ANGELINA_SYS
 -----------------------------------------
-Architecture : chaotic-good / dual-core
-Primary Drive: art & code, in equal measure
-Boot media   : industrial playlists
-Known bugs   :
-  > cannot stop a project once started
-  > perfectionism loop — no exit condition
-  > 3am hyperfocus — uninterruptible process
-  > character design addiction — no patch available
+Architecture   : chaotic-good / dual-core / sleep-deprived
+Primary Drive  : art + code, in equal parts
+Boot sequence  : industrial playlist → caffeine → compile
+Kernel         : perpetually-student.build
 
-Favorite software : winamp. always winamp.
-Favorite color    : #00FF00 on #000000. forever.
+Known bugs (non-critical, will not patch):
+  > cannot stop a project once started          [WONTFIX]
+  > perfectionism loop — no exit condition      [WONTFIX]
+  > 3am hyperfocus — uninterruptible process    [WONTFIX]
+  > character design addiction                   [WONTFIX]
+  > saving files in 40 different versions        [WONTFIX]
+
+Favorite software  : winamp. always winamp. forever winamp.
+Favorite color     : #CC0000 on #000000. non-negotiable.
+Favorite sound     : industrial static at 3am.
 
 System quote:
-  "it still works. that's enough. ship it."
+  "it still compiles. that's enough. ship it."
+  "the art will be done when it's done."
+  "sleep is a skill issue."
 ```
 
 </details>
@@ -313,12 +415,21 @@ System quote:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:003300&height=120&section=footer&text=//+EOF+::+SIGNAL+LOST&fontSize=18&fontColor=335533&fontAlignY=65&animation=twinkling" width="100%"/>
+<!-- FOOTER GIF ROW -->
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="19%" />
+<img src="https://media.giphy.com/media/xT9IgG50Lg7russDPO/giphy.gif" width="19%" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="19%" />
+<img src="https://media.giphy.com/media/xT9IgG50Lg7russDPO/giphy.gif" width="19%" />
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="19%" />
 
 <br/>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&left_color=000000&right_color=00ff00&left_text=INTRUDERS_LOGGED)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,30:3d0000,70:0d0000,100:000000&height=140&section=footer&text=//+EOF+::+SIGNAL+LOST&fontSize=20&fontColor=660000&fontAlignY=65&animation=twinkling" width="100%"/>
 
-`// ANGELINA_SYS :: BUILD 97.0.1 :: ALL PROCESSES TERMINATED :: GOODNIGHT`
+<br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&left_color=0d0000&right_color=cc0000&left_text=INTRUDERS_LOGGED)
+
+`// ANGELINA_SYS :: BUILD 97.02 :: ALL PROCESSES TERMINATED :: SIGNAL LOST :: GOODNIGHT`
 
 </div>
