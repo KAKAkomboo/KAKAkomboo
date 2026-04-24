@@ -1,71 +1,43 @@
-# ⚡ KAKAKomboo | Angelina
+# 💽 KAKAKomboo | Winamp Skin v1.95
 
 <p align="center">
-  <img src="kak_komboo_dark_manga_banner.png" width="100%" alt="Dark Manga Banner"/>
+  <img src="kak_komboo_winamp_player.png" width="100%" alt="KAKAKomboo Player Interface"/>
 </p>
 
 <p align="center">
-  <b>Artist by heart. Developer by choice. Exploring the void between code and design.</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/KAKAKomboo?label=Followers&style=flat-square&color=000&labelColor=333" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/KAKAKomboo?label=Stars&style=flat-square&color=000&labelColor=333" alt="Stars"/>
+  <a href="https://linkedin.com/in/angelina-protsenko">
+    <img src="https://img.shields.io/badge/PLAY-000?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/STOP-000?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
+  <a href="#featured-projects">
+    <img src="https://img.shields.io/badge/NEXT-000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+  </a>
 </p>
 
 ---
 
-### 🌑 About Me
-I'm a first-year student from **Vinnytsia, Ukraine**. I balance the precision of **Python/FastAPI** with the creativity of **Character Design**. Currently on a mission to build meaningful projects and explore the depth of **Web development**.
+## 🎧 About the User
 
-- 🔭 I’m currently working on my personal brand & startup ideas.
-- 🌱 Learning Assembly and WebGL for fun.
-- 🎨 Specializing in adoptable character design and pixel art.
-- 🐈 Proud owner of a cat in a bowtie.
+I'm Angelina, currently running character design logic and Python functions from **Vinnytsia, Ukraine**. Exploring the depth of **Gothic Frutiger Aero**.
+
+> "The code is never finished. It only becomes slightly less terrible over time."
 
 ---
 
-### 🛠 Languages & Tools
+## 🗃 The Scratching Post (Stack)
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,nextjs,html,css,tailwind,prisma,postgres,figma,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,nextjs,html,css,tailwind,figma,git&theme=dark" />
 </p>
 
 ---
 
-### 📂 Featured Projects
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="dark_repo_cover.png" width="100%"/>
-      <br />
-      <b>Adoptable Nautica API</b><br />
-      A backend system for managing character auctions.
-    </td>
-    <td width="50%">
-       <img src="dark_repo_cover.png" width="100%"/>
-       <br />
-       <b>Personal Portfolio</b><br />
-       My digital garden built with Next.js & Tailwind.
-    </td>
-  </tr>
-</table>
+## 💿 Current Projects
 
----
-
-### 📈 Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAKAKomboo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKAKomboo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Languages" width="48%"/>
-</p>
+*( Soon to be populated with your actual project links. For now, here is the aesthetic view)*
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAKAKomboo&theme=dark&hide_border=true&background=0D1117" alt="Streak" width="100%"/>
-</p>
-
----
-
-### 🔗 Connect
-<p align="left">
-  <a href="https://linkedin.com/in/angelina-protsenko"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="project_cd_rom.png" width="40%" alt="Project Disc"/>
 </p>
