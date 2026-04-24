@@ -16,3 +16,36 @@
     <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=100&section=header&text=About%20me&fontSize=40" />
+</div>
+
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td valign="top" width="250">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHh3M3ZueHh3M3ZueHh3M3ZueHh3M3ZueHh3M3ZueHh3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR3Wv2D6v6n/giphy.gif" width="200" />
+    </td>
+
+    <td valign="top" align="center">
+      <h3>Hey there, I'm Angelina 👋</h3>
+      <p>I'm a first-year student and a developer driven by the intersection of <b>programming and digital art</b>.</p>
+      <p>Currently focused on building scalable web applications and exploring the depths of <b>Software Engineering</b> through hands-on projects.</p>
+      <p align="center">
+        <i>"Turning complex logic into aesthetic visual experiences."</i>
+      </p>
+      <br>
+      <b>Main Focus:</b><br>
+      Full-stack Dev / Character Design / UI Architecture
+    </td>
+
+    <td valign="top" width="250">
+       <img src="banner.gif" width="200" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
