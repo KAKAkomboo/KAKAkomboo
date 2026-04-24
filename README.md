@@ -25,18 +25,18 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top" width="250">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHh3M3ZueHh3M3ZueHh3M3ZueHh3M3ZueHh3M3ZueHh3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR3Wv2D6v6n/giphy.gif" width="200" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2VsN2hvdzFzMDA0aTByYmJjejhkaWthZXNoNXI0eHh0cjhteTUzOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gWDJWMJVemkKH8tljp/giphy.gif" width="200" />
     </td>
     <td valign="top" align="center">
       <h3>Hey there, I'm Angelina 👋</h3>
       <p>I'm a first-year student and a developer driven by the intersection of <b>programming and digital art</b>.</p>
-      <p>Currently focused on building scalable web applications and exploring the depths of <b>Software Engineering</b> through hands-on projects.</p>
+      <p>Currently focused on building scalable web applications and <b>creative coding</b> through hands-on projects.</p>
       <p align="center">
-        <i>"Turning complex logic into aesthetic visual experiences."</i>
+        <i>"Transforming complex logic into aesthetic digital experiences."</i>
       </p>
       <br>
       <b>Main Focus:</b><br>
-      Full-stack Dev / Character Design / UI Architecture
+      Full-stack Dev / Digital Art / UI/UX design
     </td>
   </tr>
 </table>
