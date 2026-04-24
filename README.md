@@ -27,7 +27,6 @@
     <td valign="top" width="250">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHh3M3ZueHh3M3ZueHh3M3ZueHh3M3ZueHh3M3ZueHh3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR3Wv2D6v6n/giphy.gif" width="200" />
     </td>
-
     <td valign="top" align="center">
       <h3>Hey there, I'm Angelina 👋</h3>
       <p>I'm a first-year student and a developer driven by the intersection of <b>programming and digital art</b>.</p>
@@ -38,10 +37,6 @@
       <br>
       <b>Main Focus:</b><br>
       Full-stack Dev / Character Design / UI Architecture
-    </td>
-
-    <td valign="top" width="250">
-       <img src="banner.gif" width="200" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
