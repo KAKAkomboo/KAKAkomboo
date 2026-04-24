@@ -1,50 +1,71 @@
-# Hello, World! I'm Angelina, aka KAKAKomboo! 🐱💻
+# ⚡ KAKAKomboo | Angelina
 
 <p align="center">
-  <img src="path/to/kak_komboo_main_banner.png" width="100%" alt="KAKAKomboo main banner"/>
+  <img src="kak_komboo_dark_manga_banner.png" width="100%" alt="Dark Manga Banner"/>
 </p>
 
-Combining logic and pixels. Focused on building clean, visual, and user-centric experiences.
-
----
-
-## My Tech Scratching Post (Stack)
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <b>Artist by heart. Developer by choice. Exploring the void between code and design.</b>
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/github/followers/KAKAKomboo?label=Followers&style=flat-square&color=000&labelColor=333" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/KAKAKomboo?label=Stars&style=flat-square&color=000&labelColor=333" alt="Stars"/>
 </p>
 
 ---
 
-## Current Pawsitive Projects
+### 🌑 About Me
+I'm a first-year student from **Vinnytsia, Ukraine**. I balance the precision of **Python/FastAPI** with the creativity of **Character Design**. Currently on a mission to build meaningful projects and explore the depth of **Web development**.
 
-*(Soon to be updated. Here's a generic look)*
-
-<p align="center">
-  <img src="path/to/repository_cover.png" width="40%" alt="repository cover"/>
-</p>
+- 🔭 I’m currently working on my personal brand & startup ideas.
+- 🌱 Learning Assembly and WebGL for fun.
+- 🎨 Specializing in adoptable character design and pixel art.
+- 🐈 Proud owner of a cat in a bowtie.
 
 ---
 
-## Catch Me At (Contacts)
-
+### 🛠 Languages & Tools
 <p align="left">
-<a href="https://linkedin.com/in/angelina-protsenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/KAKAKomboo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,nextjs,html,css,tailwind,prisma,postgres,figma,git&theme=dark" />
 </p>
 
 ---
 
-## KAKAKomboo Stats
+### 📂 Featured Projects
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="dark_repo_cover.png" width="100%"/>
+      <br />
+      <b>Adoptable Nautica API</b><br />
+      A backend system for managing character auctions.
+    </td>
+    <td width="50%">
+       <img src="dark_repo_cover.png" width="100%"/>
+       <br />
+       <b>Personal Portfolio</b><br />
+       My digital garden built with Next.js & Tailwind.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KAKAKomboo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKAKomboo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Languages" width="48%"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAKAKomboo&show_icons=true&theme=gotham" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKAKomboo&layout=compact&theme=gotham" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAKAKomboo&theme=dark&hide_border=true&background=0D1117" alt="Streak" width="100%"/>
+</p>
+
+---
+
+### 🔗 Connect
+<p align="left">
+  <a href="https://linkedin.com/in/angelina-protsenko"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
