@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/render?type=soft&color=auto&height=100&section=header&text=About%20me&fontSize=40](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN24zcW1xd3BxdDlhYjkzZGp0bXdrZmR3Yjg1bjAzNXc2anRvZWxiOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zEg1umzt8E30z5ntiJ/giphy.gif)" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ4NGY2NTh5bGR6amF2bTI0NGl4M3R5NHk2NWVienlqcG1nZ3d3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9fz6KF198AgVFbUyO/giphy.gif" />
 </div>
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
