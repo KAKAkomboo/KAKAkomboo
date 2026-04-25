@@ -22,9 +22,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2UzeDFmMWxtN2dxamtiZ2YzcnRjN2wyZmVoNm0yc3c1aHYyMGRtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XS8Qq8XAE3g77uRtFj/giphy.gif" height="50"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=100&section=header&text=About%20me&fontSize=40" />
-</div>
 
 <div align="center" style="font-family: 'Georgia', serif; line-height: 1.8; max-width: 800px; margin: 0 auto; padding: 20px;">
   
