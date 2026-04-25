@@ -42,3 +42,50 @@
   </p>
 
 </div>
+
+
+
+
+---
+
+<div align="center">
+  
+  <p style="font-family: 'Baskerville', serif; font-size: 1.4em; letter-spacing: 2px; margin-bottom: 20px;">
+    <b>TECHNICAL STACK</b>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
+    <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" alt="TS">
+    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </p>
+
+  <br>
+
+  <p style="font-family: 'Baskerville', serif; font-size: 1.4em; letter-spacing: 2px; margin-bottom: 20px;">
+    <b>IDE & ENVIRONMENT</b>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+    <img src="https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=gnumeterminal&logoColor=white" alt="Terminal">
+    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </p>
+
+  <br>
+
+  <p style="font-family: 'Baskerville', serif; font-size: 1.4em; letter-spacing: 2px; margin-bottom: 20px;">
+    <b>DESIGN & CREATIVE</b>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
+    <img src="https://img.shields.io/badge/Procreate-black?style=for-the-badge&logo=procreate&logoColor=white" alt="Procreate">
+    <img src="https://img.shields.io/badge/Aseprite-black?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite">
+  </p>
+
+</div>
+
+---
