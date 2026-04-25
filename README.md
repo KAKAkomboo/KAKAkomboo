@@ -25,7 +25,7 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top" width="250">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTRudzhrYXFxeWxrbTlwMXloczBpOHVjaXcwcnoxcGJzbWVpdHRrOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/VxrDGYddByhiDi46DZ/giphy.gif" width="200" />
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdudHZvZW44M21wa2c2MnRzMHY4N3EwMDE0bWozbDExb3JmNHJrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YtCAXWS94FZbWiKmKH/giphy.gif" width="200" />
     </td>
     <td valign="top" align="center">
       <h3>Hey there, I'm Angelina 👋</h3>
