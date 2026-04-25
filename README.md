@@ -25,7 +25,7 @@
 
 <div align="center" style="font-family: 'Baskerville', 'Baskerville Old Face', 'Hoefler Text', 'Garaphont', 'Garamond', 'Times New Roman', serif; line-height: 1.8; max-width: 850px; margin: 0 auto; padding: 30px;">
   
-  <h2 style="border-bottom: none; font-size: 2.5em; font-weight: 500; margin-bottom: 15px; letter-spacing: -0.5px;">Hey there, I'm Angelina 👋</h2>
+  <h2 style="border-bottom: none; font-size: 2.5em; font-weight: 500; margin-bottom: 15px; letter-spacing: -0.5px;">Hey there, I'm Angelina</h2>
   
   <p style="font-size: 1.3em; margin: 10px 0; letter-spacing: 0.2px;">
     I'm a first-year student and a developer driven by the intersection of <br>
