@@ -23,23 +23,33 @@
 </div>
 
 
-<div align="center" style="font-family: 'Georgia', serif; line-height: 1.8; max-width: 800px; margin: 0 auto; padding: 20px;">
+<div align="center" style="font-family: 'ui-monospace', 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; line-height: 1.6; max-width: 850px; margin: 0 auto; padding: 40px 20px;">
   
-  <h2 style="border-bottom: none; font-size: 2em; margin-bottom: 10px;">Hey there, I'm Angelina 👋</h2>
-  
-  <p style="font-size: 1.2em; margin: 5px 0;">
+  <h1 style="border-bottom: none; font-weight: 300; font-size: 2.5em; letter-spacing: -1px; margin-bottom: 20px; color: #f0f6fc;">
+    Hey there, I'm Angelina 👋
+  </h1>
+
+  <p style="font-size: 1.15em; color: #c9d1d9; margin: 10px 0;">
     I'm a first-year student and a developer driven by the intersection of <br>
-    <span style="color: #bc8cff;"><b>programming</b></span> and <span style="color: #79c0ff;"><b>digital art</b></span>.
+    <span style="color: #bc8cff; font-weight: 600;">programming</span> and <span style="color: #79c0ff; font-weight: 600;">digital art</span>.
   </p>
   
-  <p style="font-size: 1.1em; margin: 5px 0;">
+  <p style="font-size: 1.15em; color: #c9d1d9; margin: 10px 0;">
     Currently focused on building scalable web applications and <br>
-    <b>creative coding</b> through hands-on projects.
+    <span style="border-bottom: 1px solid #30363d;">creative coding</span> through hands-on projects.
   </p>
 
-  <p style="margin-top: 25px; font-style: italic; color: #8b949e; font-size: 1em;">
+  <p style="margin-top: 35px; font-style: italic; color: #8b949e; font-size: 1.05em; font-family: 'Georgia', serif;">
     "Transforming complex logic into aesthetic digital experiences."
   </p>
+
+  <div style="margin-top: 40px; opacity: 0.8;">
+    <code style="font-size: 0.85em; background: #161b22; padding: 5px 12px; border-radius: 20px; border: 1px solid #30363d; color: #8b949e;">
+      Full-stack Dev • Digital Art • UI Architecture
+    </code>
+  </div>
+
+</div>
 
   <div style="margin-top: 30px; letter-spacing: 2px; font-size: 0.9em; color: #58a6ff; font-weight: bold; text-transform: uppercase;">
     Full-stack Dev • Digital Art • UI/UX Design
