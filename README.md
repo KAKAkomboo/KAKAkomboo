@@ -50,13 +50,3 @@
   </div>
 
 </div>
-
-  <div style="margin-top: 30px; letter-spacing: 2px; font-size: 0.9em; color: #58a6ff; font-weight: bold; text-transform: uppercase;">
-    Full-stack Dev • Digital Art • UI/UX Design
-  </div>
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</div>
