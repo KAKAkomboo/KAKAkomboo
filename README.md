@@ -81,6 +81,7 @@
   </p>
   <p>
     <img src="https://img.shields.io/badge/Clip_Studio_Paint-black?style=for-the-badge&logo=clip-studio-paint&logoColor=white" alt="Clip Studio Paint">
+    <img src="https://img.shields.io/badge/Adobe_Illustrator-black?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
     <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
     <img src="https://img.shields.io/badge/Aseprite-black?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite">
